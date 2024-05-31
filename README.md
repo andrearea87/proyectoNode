@@ -1,4 +1,4 @@
-** Proyecto Final NodeJs
+* Proyecto Final NodeJs
 
 Nombre: Rosa Andrea Rea Lozada
 Correo: andrearea87@gmail.com
@@ -9,3 +9,5 @@ Correo: andrearea87@gmail.com
     "email":"andrea@gmail.com",
     "password":"123456"
 }
+
+*** El archivo .env se adjunta en el correo enviado a tutoria
